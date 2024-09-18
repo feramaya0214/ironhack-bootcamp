@@ -68,8 +68,8 @@ class Saxon(Soldier):
 class War():
     def __init__(self):
         # your code here
-        self.vikingArmy = []
-        self.saxonArmy = []
+        self.vikingArmy = list()
+        self.saxonArmy = list()
 
     def addViking(self, viking):
         # your code here
