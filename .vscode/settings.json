@@ -1,3 +1,9 @@
 {
-    "cSpell.language": "en,es-ES"
+    "cSpell.language": "en,es-ES",
+    "cSpell.ignoreWords": [
+        "CGPA",
+        "condicion",
+        "filtr",
+        "testear"
+    ]
 }
