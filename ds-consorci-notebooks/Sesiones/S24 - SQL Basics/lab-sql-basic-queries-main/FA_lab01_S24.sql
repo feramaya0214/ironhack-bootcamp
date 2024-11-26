@@ -94,3 +94,6 @@ WHERE special_features LIKE '%Behind the Scenes%';
 SELECT count(*) AS 'Number of films that include Behind the Scenes content: '
 FROM sakila.film
 WHERE special_features LIKE '%Behind the Scenes%';
+
+
+-- thanks
